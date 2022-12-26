@@ -43,6 +43,10 @@ module.exports = {
       host: '127.0.0.1',
       port: 8545,
       network_id: '2330',
+       //  This is the timeout config. set it to 1000 seconds
+      networkCheckTimeout: 1000000,    
+      timeoutBlocks: 200,
+      addressIndex: 2
     },
 
     mainNet: {
