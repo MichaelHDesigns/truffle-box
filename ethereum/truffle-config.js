@@ -42,12 +42,12 @@ module.exports = {
     localhost: {
       host: '127.0.0.1',
       port: 8545,
-      network_id: '*',
+      network_id: '2330',
     },
 
     mainNet: {
-      provider: new HDWalletProvider(MNEMONIC, MAINNET_ENDPOINT_ALCHEMY),
-      network_id: 1,
+      provider: new HDWalletProvider(MNEMONIC),
+      network_id: 2330,
       gas: 4500000,
       gasPrice: 10000000000,
       confirmations: 2,
