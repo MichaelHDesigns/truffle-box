@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/ethereum-marketplace/static/js/main.ff9dd840.chunk.js",
-    "main.js.map": "/ethereum-marketplace/static/js/main.ff9dd840.chunk.js.map",
-    "runtime-main.js": "/ethereum-marketplace/static/js/runtime-main.79afa28f.js",
-    "runtime-main.js.map": "/ethereum-marketplace/static/js/runtime-main.79afa28f.js.map",
-    "static/css/2.36d2c7de.chunk.css": "/ethereum-marketplace/static/css/2.36d2c7de.chunk.css",
-    "static/js/2.6a06fd9a.chunk.js": "/ethereum-marketplace/static/js/2.6a06fd9a.chunk.js",
-    "static/js/2.6a06fd9a.chunk.js.map": "/ethereum-marketplace/static/js/2.6a06fd9a.chunk.js.map",
-    "index.html": "/ethereum-marketplace/index.html",
-    "static/css/2.36d2c7de.chunk.css.map": "/ethereum-marketplace/static/css/2.36d2c7de.chunk.css.map",
-    "static/js/2.6a06fd9a.chunk.js.LICENSE.txt": "/ethereum-marketplace/static/js/2.6a06fd9a.chunk.js.LICENSE.txt",
-    "static/media/logo2.8ce4ae83.PNG": "/ethereum-marketplace/static/media/logo2.8ce4ae83.PNG"
+    "main.js": "/truffle-web3-nft-marketplace/static/js/main.ff9dd840.chunk.js",
+    "main.js.map": "/truffle-web3-nft-marketplace/static/js/main.ff9dd840.chunk.js.map",
+    "runtime-main.js": "/truffle-web3-nft-marketplace/static/js/runtime-main.045a25aa.js",
+    "runtime-main.js.map": "/truffle-web3-nft-marketplace/static/js/runtime-main.045a25aa.js.map",
+    "static/css/2.36d2c7de.chunk.css": "/truffle-web3-nft-marketplace/static/css/2.36d2c7de.chunk.css",
+    "static/js/2.c67d6929.chunk.js": "/truffle-web3-nft-marketplace/static/js/2.c67d6929.chunk.js",
+    "static/js/2.c67d6929.chunk.js.map": "/truffle-web3-nft-marketplace/static/js/2.c67d6929.chunk.js.map",
+    "index.html": "/truffle-web3-nft-marketplace/index.html",
+    "static/css/2.36d2c7de.chunk.css.map": "/truffle-web3-nft-marketplace/static/css/2.36d2c7de.chunk.css.map",
+    "static/js/2.c67d6929.chunk.js.LICENSE.txt": "/truffle-web3-nft-marketplace/static/js/2.c67d6929.chunk.js.LICENSE.txt",
+    "static/media/logo2.8ce4ae83.PNG": "/truffle-web3-nft-marketplace/static/media/logo2.8ce4ae83.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.79afa28f.js",
+    "static/js/runtime-main.045a25aa.js",
     "static/css/2.36d2c7de.chunk.css",
-    "static/js/2.6a06fd9a.chunk.js",
+    "static/js/2.c67d6929.chunk.js",
     "static/js/main.ff9dd840.chunk.js"
   ]
 }
