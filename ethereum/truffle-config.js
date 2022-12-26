@@ -46,7 +46,7 @@ module.exports = {
     },
 
     mainNet: {
-      provider: new HDWalletProvider(`https://rpc0.altcoinchain.org/rpc`),
+      provider: new HDWalletProvider(MNEMONIC, `https://rpc0.altcoinchain.org/rpc`),
       network_id: 2330,
       gas: 4500000,
       gasPrice: 10000000000,
