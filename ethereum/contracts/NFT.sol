@@ -5,7 +5,7 @@ import './NFT/NFTLogics.sol';
 pragma solidity ^0.8.13;
 
 contract NFT is NFTLogics {
-    constructor(address _marketplaceAddress) ERC721('ALT Marketplace', 'ALTM') {
+    constructor(address _marketplaceAddress) ERC721('My Digital Marketplace', 'MDM') {
         marketplaceAddress = _marketplaceAddress;
     }
 
