@@ -9,8 +9,10 @@ module.exports = {
       network_id: "2330" // Match any network id
     },
   },
-  contracts_directory: './src/contracts/',
-  contracts_build_directory: './src/abis/',
+   contracts_directory: './contracts',
+  migrations_directory: './migrations',
+  // contracts_build_directory: path.join(__dirname, "../client/src/contracts"),
+  contracts_build_directory: path.join(__dirname, 'build'),
 compilers: {
     solc: {
       optimizer: {
