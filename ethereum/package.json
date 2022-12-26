@@ -1,7 +1,7 @@
 {
   "name": "truffle-nft-marketplace",
   "version": "1.0.0",
-  "homepage": "https://michaelhdesigns.github.io/ethereum-marketplace/",
+  "homepage": " https://michaelhdesigns.github.io/truffle-web3-nft-marketplace/",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
