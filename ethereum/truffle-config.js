@@ -39,24 +39,13 @@ module.exports = {
   },
 
   networks: {
-    localhost: {
-      host: '127.0.0.1',
+     networks: {
+    development: {
+      host: "127.0.0.1",
       port: 8545,
-      network_id: '2330',
-       //  This is the timeout config. set it to 1000 seconds
-      networkCheckTimeout: 1000000,    
-      timeoutBlocks: 200,
-      addressIndex: 2
+      network_id: "2330" // Match any network id
     },
-
-    mainNet: {
-      provider: new HDWalletProvider(MNEMONIC, MAINNET_ENDPOINT_ALCHEMY),
-      network_id: 1,
-      gas: 4500000,
-      gasPrice: 10000000000,
-      confirmations: 2,
-      timeoutBlocks: 200,
-      skipDryRun: true,
+  },
     },
     
   },
