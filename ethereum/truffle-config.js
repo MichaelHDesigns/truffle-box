@@ -44,9 +44,7 @@ module.exports = {
       port: 8545,
       network_id: "2330" // Match any network id
     },
-  },
-    },
-    
+  },  
   },
   mocha: {},
 };
