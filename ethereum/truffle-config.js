@@ -39,7 +39,7 @@ module.exports = {
   },
 
   networks: {
-    altcoinchain: {
+    localhost: {
       host: '127.0.0.1',
       port: 8545,
       network_id: '2330',
